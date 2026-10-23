@@ -1,0 +1,8 @@
+{
+  "name": "Remix PocketWise AI — Personal Student Finance Coach",
+  "description": "Smart, student-focused personal finance manager with expense tracking, budgeting, savings goals, AI financial coach, and financial literacy lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
